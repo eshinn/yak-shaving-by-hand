@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/eshinn/yak-shaving-by-hand#readme",
   "devDependencies": {
+    "eslint": "^3.4.0",
+    "eslint-plugin-react": "^6.2.0",
     "mocha": "^3.0.2"
   }
 }
