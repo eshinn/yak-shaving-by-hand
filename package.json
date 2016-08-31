@@ -1,0 +1,27 @@
+{
+  "name": "yak-shaving-by-hand",
+  "version": "1.0.0",
+  "description": "Oh just shaving that yak. Yep.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "^6.3.1",
+    "npm": "^3.10.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eshinn/yak-shaving-by-hand.git"
+  },
+  "keywords": [
+    "yak",
+    "shaving"
+  ],
+  "author": "Eric Shinn <eric.shinn@gmail.com> (http://eric.cx/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eshinn/yak-shaving-by-hand/issues"
+  },
+  "homepage": "https://github.com/eshinn/yak-shaving-by-hand#readme"
+}
